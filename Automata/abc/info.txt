@@ -1,0 +1,2 @@
+* A dfa accepting a string having even number of a's ,even number of c's and odd number of b's.
+* a, b, c can occur 0 or more number of times.
